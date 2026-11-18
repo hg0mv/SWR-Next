@@ -6,7 +6,7 @@ SWR Next steps across a band, sends a short low-power carrier at every point, re
 
 > **Beta release.** Please read [Safety](#safety) before the first sweep.
 
-![Graph view](docs/screenshot-graph.png)
+![Graph view](screenshot-graph.png)
 
 ## Features
 
@@ -20,7 +20,7 @@ SWR Next steps across a band, sends a short low-power carrier at every point, re
 - English and Hungarian user interface
 - Optional **Hamlib** backend for other radios that report SWR (Linux build)
 
-![Summary view](docs/screenshot-summary.png)
+![Summary view](screenshot-summary.png)
 
 ## Download and run
 
